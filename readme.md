@@ -3,6 +3,9 @@
 这个插件是VincentGarreau大神的[particles.js](https://github.com/VincentGarreau/particles.js)的uniapp封装。
 做项目的时候发现留白的地方有点空，于是用了particles.js，然后感觉以后经常都能用上，就做成了组件，突然又想试试自己做插件，刚好是周末，就尝试了一下。
 第一次写插件，有不专业的地方大家多多指教。有问题请联系QQ：50793655
+
+演示地址：https://static-35bf94ca-f0cc-4340-8c77-e0eb817d43cc.bspapp.com
+
 ## 开始使用
 ### template中使用
 ```
